@@ -11,4 +11,4 @@ The Server was implemented using CherryPy and the Client was implemented using n
   How to:                                                       
   ./run.sh 
 
-Project made for the Security course.
+Project made for the Security course with [José Sequeira](https://github.com/JRSequeira).
